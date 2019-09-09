@@ -1,0 +1,25 @@
+{
+  "name": "gitbook-plugin-youtube-placeholder",
+  "description": "Super duper basic Youtube integration for Gitbook 3.x.",
+  "version": "1.0.0",
+  "main": "index",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "keywords": [
+    "youtube",
+    "iframe",
+    "embed",
+    "placeholder",
+    "gitbook"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcopeg/gitbook-plugin-youtube-placeholder"
+  },
+  "author": {
+    "name": "marcopeg",
+    "url": "https://marcopeg.com"
+  },
+  "license": "MIT"
+}
