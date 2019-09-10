@@ -1,7 +1,7 @@
 {
   "name": "gitbook-plugin-youtube-placeholder",
   "description": "Super duper basic Youtube integration for Gitbook 3.x.",
-  "version": "1.0.0",
+  "version": "1.2.3",
   "main": "index",
   "engines": {
     "gitbook": ">1.x.x"
